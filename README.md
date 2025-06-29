@@ -1,4 +1,4 @@
-Introduction
+<h1> Introduction <h1>
 The goal of this project was to create a business intelligence dashboard for AdventureWorks, a fictional cycling equipment company, using Power BI. The purpose for doing this was to demonstrate my ability to build insightful, accurate, and aesthetic reports in Power BI.
 
 The dataset was supplied by Maven Analytics during their Power BI Desktop for Business Intelligence course and is available from Microsoft.
