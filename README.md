@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>AdventureWorks Power BI Dashboard</title>
-</head>
-<body>
+
 
   <h1>Introduction</h1>
   <p>
